@@ -1,0 +1,9 @@
+{
+  "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "platformArbitrator": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+  "network": {
+    "name": "localhost",
+    "chainId": 31337
+  },
+  "deployedAt": "2026-10-06T08:02:12.004Z"
+}
